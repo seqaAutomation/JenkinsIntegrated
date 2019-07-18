@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TmpSuite]" parallel="tests">
+  <listeners>
+    <listener class-name="TestEngine.Listener"/>
+  </listeners>
+  <test thread-count="3" name="TmpTest" parallel="classes">
+    <classes>
+      <class name="TestCases.Gmail.Test1"/>
+      <class name="TestCases.Gmail.Test2"/>
+      <class name="TestCases.CommonCrm.Test3"/>
+    </classes>
+  </test> <!-- TmpTest -->
+</suite> <!-- Failed suite [TmpSuite] -->

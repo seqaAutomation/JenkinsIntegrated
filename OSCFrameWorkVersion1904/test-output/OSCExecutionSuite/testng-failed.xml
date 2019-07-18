@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [OSCExecutionSuite]" parallel="tests">
+  <listeners>
+    <listener class-name="TestEngine.Listener"/>
+  </listeners>
+  <test name="TestSet_Gmail">
+    <classes>
+      <class name="TestCases.Gmail.PreReq_01"/>
+      <class name="TestCases.Gmail.PreReq_02"/>
+      <class name="TestCases.Gmail.PreReq_03"/>
+      <class name="TestCases.Gmail.TestCase_02"/>
+      <class name="TestCases.Gmail.TestCase_04"/>
+      <class name="TestCases.Gmail.TestCase_08"/>
+      <class name="TestCases.Gmail.TestCase_10"/>
+    </classes>
+  </test> <!-- TestSet_Gmail -->
+</suite> <!-- Failed suite [OSCExecutionSuite] -->

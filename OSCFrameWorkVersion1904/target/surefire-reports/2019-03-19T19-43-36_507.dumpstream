@@ -1,0 +1,4 @@
+# Created at 2019-03-19T19:43:36.943
+Boot Manifest-JAR contains absolute paths in classpath 'D:\OSCFrameWork\OSCFrameWorkVersion2\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4710849" started-at="2019-05-23T05:38:07Z" finished-at="2019-05-23T06:56:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4710849" started-at="2019-05-23T05:38:07Z" finished-at="2019-05-23T06:56:38Z">
+      <class name="TestEngine.XmlGenerator">
+        <test-method status="PASS" signature="xmlCreate()[pri:0, instance:TestEngine.XmlGenerator@6cc4c815]" name="xmlCreate" duration-ms="4710822" started-at="2019-05-22T23:38:07Z" finished-at="2019-05-23T00:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xmlCreate -->
+      </class> <!-- TestEngine.XmlGenerator -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
